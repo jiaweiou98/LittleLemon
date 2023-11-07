@@ -6,7 +6,7 @@ const Footer =()=>{
         <footer>
             <section>
                 <div>
-                    <img scr ={small_logo}/>
+                    <img src ={small_logo}/>
                 </div>
                 <div>
                     <h3>Document Navigation</h3>
