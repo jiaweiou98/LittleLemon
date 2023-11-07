@@ -1,6 +1,6 @@
 import React from "react";
 import food1 from "../Assets/food1.avif";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Header = ()=>{
     return(
